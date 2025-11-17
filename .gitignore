@@ -1,0 +1,14 @@
+# Large data files
+*.tsv
+*.csv
+data/raw/*.tsv
+data/raw/*.csv
+**/*.tsv
+**/*.csv
+.DS_Store
+.ipynb_checkpoints/
+# Data files
+data/raw/*.tsv
+data/raw/*.csv
+*.tsv
+*.csv
